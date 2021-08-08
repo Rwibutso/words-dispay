@@ -1,0 +1,33 @@
+Liste des catégories de formation sur KoriOne
+
+1) Réseau et télécommunications
+2) Informatique et internet
+3) Gestion et entreprise
+4) Génie civil
+5) Education et formation
+6) Langues et culture
+7) Marketing et communication
+8) Sciences des données
+9) Finances et comptabilité
+10) Droit et fiscalité
+11) Banque et assurance
+12) Agriculture
+13) Développement rurale
+14) Management de projet
+15) Ressources minières
+16) Musique et vidéogramme
+17) Energie renouvelable
+18) Mécanique et automobile
+19) QHSE 
+20) Electronique et Electrotechnique
+21) Transformation agroalimentaire
+22) Sante et fitness
+23) Tourisme et voyage
+24) Hôtellerie et Restauration
+25) Sport et loisir
+26) Menuiserie ébénisterie
+27) Métallurgie et transformation
+28) Style de vie et mode
+29) Design et photographie
+30) Autres
+
